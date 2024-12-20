@@ -14,6 +14,5 @@ INSERT INTO cars (CarName, Model, Year, Price)
 VALUES ('BMW', '7 Series', 2022, 9000000.50);
 
 SELECT * FROM cars;
-SELECT * FROM cars WHERE CarName = 'BMW';
 
 
